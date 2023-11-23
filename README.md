@@ -21,5 +21,6 @@ python xo_game.py
 
 Feel free to explore, modify, and enhance the code to suit your preferences or use it as a foundation for more advanced projects. If you encounter any issues or have suggestions for improvements, don't hesitate to open an issue or submit a pull request.
 
-### Happy coding and have fun playing XO in Python! 🎮🐍
+#### Note: You may encounter an error cleaning the command prompt in Windows. You can modify the code to be compatible with CMD
 
+### Happy coding and have fun playing XO in Python! 🎮🐍
