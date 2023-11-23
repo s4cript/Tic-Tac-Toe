@@ -57,7 +57,7 @@ def CheckWin():
         Game = Running
 
 
-print("XO Game Designed By Fahad")
+print("XO Game Designed By s4cript")
 print("Player 1 [X] --- Player 2 [O]\n")
 print()
 print()
@@ -90,5 +90,7 @@ while Game == Running:
         player -= 1
         if player % 2 != 0:
             print("Player 1 win")
+            print("Twitter: @s4cript , Telegram: @s4cript")
         else:
             print("player 2 win")
+            print("Twitter: @s4cript , Telegram: @s4cript")
