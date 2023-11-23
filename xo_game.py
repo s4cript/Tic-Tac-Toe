@@ -86,11 +86,15 @@ while Game == Running:
 
     if Game == Draw:
         print("Game Draw")
+        print()
+        print("Twitter: @s4cript , Telegram: @s4cript")
     elif Game == Win:
         player -= 1
         if player % 2 != 0:
             print("Player 1 win")
+            print()
             print("Twitter: @s4cript , Telegram: @s4cript")
         else:
             print("player 2 win")
+            print()
             print("Twitter: @s4cript , Telegram: @s4cript")
